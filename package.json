@@ -1,0 +1,19 @@
+{
+  "name": "node_api_proxy",
+  "version": "1.0.0",
+  "description": "how to hide API throw the proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superfrost/node_api_proxy.git"
+  },
+  "author": "superfrost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superfrost/node_api_proxy/issues"
+  },
+  "homepage": "https://github.com/superfrost/node_api_proxy#readme"
+}

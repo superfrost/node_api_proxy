@@ -1,2 +1,2 @@
-/node_modules
-.env
+/api-proxy/node_modules
+/api-proxy/.env
